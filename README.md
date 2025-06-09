@@ -1,2 +1,2 @@
 # Sitema-de-login
-Sistema simples de Login em Python
+Interface Gráfica Python com Customtkinter.
